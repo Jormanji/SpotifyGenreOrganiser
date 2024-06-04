@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  button {
+    margin-top: 20px;
+  }
+  
+  #playlistContainer {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .playlist {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    text-align: center;
+  }
+  
+  .playlist img {
+    max-width: 100%;
+    border-radius: 4px;
+  }
+  
+  .genre {
+    margin-top: 10px;
+  }
+  
+  .genre h4 {
+    margin: 0;
+  }
